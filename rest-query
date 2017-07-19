@@ -1,0 +1,1 @@
+curl -o data.json http://iot-platform.org:8000/packets.json?node_addr=00:04:a3:0b:00:1a:ed:b5&order1=id&order2=desc&number=1000
